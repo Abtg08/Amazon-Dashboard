@@ -12,7 +12,7 @@
  ![Screenshot 2024-06-23 150625](https://github.com/Abtg08/Amazon-Dashboard/assets/87989296/6139ee4c-1fb0-4e75-9af4-e6d5b698d621)
 
 
-### Dashboard Link : https://app.powerbi.com/groups/me/reports/1afecb20-1eef-4b84-bd19-b396a2ad663a/ReportSection?experience=power-bi
+### Dashboard Link: https://app.powerbi.com/groups/me/reports/1afecb20-1eef-4b84-bd19-b396a2ad663a/ReportSection?experience=power-bi
 
 ## Introduction
 In the fast-paced world of e-commerce, understanding sales performance and customer behavior is crucial for making informed business decisions. This Power BI dashboard provides a comprehensive overview of Amazon sales data, enabling users to gain valuable insights into various key performance indicators (KPIs). By leveraging interactive visualizations and detailed metrics, this dashboard helps in analyzing sales trends, product performance, seller contributions, return rates, and customer reviews.
